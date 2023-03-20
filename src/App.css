@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
+
 .App {
   text-align: center;
 }
@@ -11,6 +13,24 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.container {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+body {
+  background: #525252;
 }
 
 .App-header {

@@ -1,0 +1,16 @@
+.txt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt h4 {
+    font-family: 'Shalimar';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin: 0 30px;
+}
