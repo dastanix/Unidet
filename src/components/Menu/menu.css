@@ -1,0 +1,48 @@
+.menu{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.burger-menu{
+    width: 364px;
+    height: 355px;
+    background: #1F2731;
+    text-align: center;
+    border: 0.4px solid rgba(229, 229, 229, 0.74)
+}
+.burger-0{
+    width: 363px;
+    height: 76px;
+    background: #EF272C;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 37px;
+    color: #FFFFFF;
+    margin-top: -1px;
+}
+.burger-1{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 37px;
+    color: rgba(255, 255, 255, 0.71);
+}
+
+hr{
+    width: 238px;
+    border: 0.4px solid rgba(229, 229, 229, 0.69);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
