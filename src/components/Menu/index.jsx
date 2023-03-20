@@ -12,7 +12,7 @@ const Menu = () => {
     return (
         <div id="menu">
             <div className="container">
-                <div className="menu flex items-center justify-between">
+                <div className="menu">
                     <div className="burger-menu">
                         <div className="burger-item burger-0">Desserts</div>
                         <div className="burger-item burger-1">Hot Drinks</div>
