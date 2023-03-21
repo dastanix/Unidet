@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 40px 0 ;
 }
 
 .txt h4 {
@@ -13,4 +14,51 @@
     text-transform: capitalize;
     color: #FFFFFF;
     margin: 0 30px;
+}
+
+.slider {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.middle-mid {
+    display: flex;
+    align-items: center;
+}
+
+.bord {
+    background: #060b1a;
+    width: 2px;
+    height: 450px;
+}
+
+.firs {
+    width: 310px;
+    height: 450px;
+}
+
+.second {
+    width: 440px;
+    height: 220px;
+}
+
+.middle-mid {
+    margin-top: 20px;
+}
+
+.third {
+    width: 230px;
+    height: 210px;
+    margin-right: 10px;
+}
+
+.fourth {
+    width: 200px;
+    height: 210px;
+}
+
+.fivth {
+    width: 310px;
+    height: 450px;
 }

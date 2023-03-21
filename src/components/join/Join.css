@@ -1,0 +1,196 @@
+.join {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 100px 0;
+	align-items: start;
+}
+
+/* ///////////////////////////// */
+
+.visit {
+	display: flex;
+	align-items: center;
+}
+
+.visit h4 {
+	font-family: "Shalimar";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 40px;
+	color: #ffffff;
+	margin-left: 35px;
+	width: 158px;
+}
+
+/* ////////////////////////////////// */
+
+.us h2 {
+	font-family: "Silk Serif", sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 40px;
+	color: #ffffff;
+	width: 250px;
+}
+
+/* ///////////////////////////////// */
+
+.hood h5 {
+	font-family: "Spartan";
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	color: #ef272c;
+	width: 330px;
+	margin: 30px 0 5px 0;
+}
+
+.hood p {
+	font-family: "Spartan", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	color: #ffffff;
+	width: 330px;
+}
+
+/* /////////////////////////////// */
+
+.open h5 {
+	font-family: "Spartan", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	color: #ef272c;
+	width: 330px;
+	margin: 30px 0 5px 0;
+}
+
+.open p {
+	font-family: "Spartan", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 20px;
+	color: #ffffff;
+	width: 330px;
+}
+
+/* ////////////////////////////////// */
+
+.btn-card {
+	position: absolute;
+	transition: 0.4s;
+}
+
+.swift {
+	display: flex;
+	justify-content: end;
+}
+
+.btn-bord {
+	border: 1.4px solid #ef272c;
+	margin: 40px 0 5px 0;
+	width: 100px;
+}
+
+.btn-card button {
+	display: flex;
+	align-items: center;
+	font-family: "Spartan", sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #ffffff;
+	border: 2px solid #ef272c;
+	padding: 10px 20px;
+}
+
+.btn-card:hover {
+	transform: scale(1.1);
+}
+
+.btn-bord2 {
+	border: 1.4px solid #ef272c;
+	margin-top: 5px;
+	width: 100px;
+}
+
+/* //////////////////////////////////// */
+
+.lead-bord {
+	background: #ef272c;
+	opacity: 0.7;
+	box-shadow: 5px 8px 26px rgba(86, 9, 187, 0.1);
+	border-radius: 2px;
+	width: 600px;
+	height: 540px;
+}
+
+.contact {
+    margin: 25px 0 0 35px;
+}
+
+.contact h5 {
+	font-family: "Gilroy", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 29px;
+	color: #1f2731;
+    width: 139px;
+}
+
+.contact p {
+    display: flex;
+    align-items: center;
+    margin: 23px 0;
+}
+
+.contact p span a {
+	font-family: "Montserrat", sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	color: #1f2731;
+    width: 266px;
+    margin-left: 15px;
+}
+
+.contact h6 {
+    display: flex;
+    align-items: center;
+}
+
+.contact h6 span {
+	font-family: "Montserrat",sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	color: #1f2731;
+    width: 340px;
+    margin-left: 15px;
+}
+
+
+.mess {
+    display: flex;
+    align-items: center;
+    margin: 50px 0 0 60px;
+}
+
+.tele {
+    margin-right: 35px;
+}
+
+.map {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.map-block {
+	width: 450px;
+	height: 250px;
+}
