@@ -1,4 +1,28 @@
+<<<<<<< HEAD
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+=======
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 @tailwind utilities;
+<<<<<<< HEAD
+=======
+>>>>>>> bbcee19271486bd2ecf933dcd7392f254a0763d4
+>>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
+>>>>>>> 9c615b643f26288f3926c4c9ed9c01d6ded99905

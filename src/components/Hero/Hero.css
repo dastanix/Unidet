@@ -1,0 +1,27 @@
+.txt-abs{
+    top: 20%;
+    left: 30%;
+}
+.txt-p{
+    letter-spacing: 3px;
+}
+
+.aboutBtn{
+
+}
+
+.aboutBtnBtn{
+    border: 2px solid red;
+    padding: 8px 15px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.aboutDivs{
+    height: 2px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:12px 15%;
+}

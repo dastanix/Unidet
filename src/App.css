@@ -1,20 +1,28 @@
+<<<<<<< HEAD
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+=======
 @import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
 
 .App {
   text-align: center;
+>>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container{
+  width: 90%;
+  margin: 0 auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body{
+  background: #1f2731;
+;
 }
 
+<<<<<<< HEAD
+=======
 .container {
   width: 1140px;
   margin: 0 auto;
@@ -43,16 +51,7 @@ body {
   font-size: calc(10px + 2vmin);
   color: white;
 }
+>>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
