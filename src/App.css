@@ -1,27 +1,57 @@
-* {
-    padding: 0;
-    margin: 0;
+<<<<<<< HEAD
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
+
+.App {
+  text-align: center;
+>>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
 }
+
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+
+body{
+  background: #1f2731;
+;
+}
+
+<<<<<<< HEAD
+=======
 .container {
-    width: 1140px;
-    margin: 0 auto;
+  width: 1140px;
+  margin: 0 auto;
 }
-button {
-    outline: none;
-    border: none;
-}
-input {
-    outline: none;
-    border: none;
-}
+
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
+button {
+  cursor: pointer;
+  border: none;
+}
 
+body {
+  background: #525252;
+}
 
-
-
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+>>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
 
 
 
