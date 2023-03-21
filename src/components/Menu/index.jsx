@@ -6,7 +6,7 @@ import Img3 from "../../img/dessert3.png"
 import Img4 from "../../img/dessert4.png"
 import Img5 from "../../img/dessert5.png"
 import Img6 from "../../img/dessert6.png"
-
+import {Route,Routes} from "react-router-dom";
 
 const Menu = () => {
     return (
@@ -14,7 +14,13 @@ const Menu = () => {
             <div className="container">
                 <div className="menu">
                     <div className="burger-menu">
-                        <div className="burger-item burger-0">Desserts</div>
+                        <a href="delete.html">
+                            <div className="burger-0-li">
+                                <div className="burger-item burger-0">Desserts</div>
+                                <div className="lining"></div>
+                            </div>
+                        </a>
+
                         <div className="burger-item burger-1">Hot Drinks</div>
                         <hr/>
                         <div className="burger-item burger-1">Cold Drinks</div>
@@ -27,12 +33,48 @@ const Menu = () => {
                         <hr/>
                     </div>
                     <div className="photo">
-                        <img src={Img} alt="img"/>
-                        <img src={Img2} alt="img"/>
-                        <img src={Img3} alt="img"/>
-                        <img src={Img4} alt="img"/>
-                        <img src={Img5} alt="img"/>
-                        <img src={Img6} alt="img"/>
+                        <div className="img-title">
+                            <img src={Img} alt="img"/>
+                            <div className="img-title-1">
+                                <h3>Ice Cream <br/> <span>soda,cream,milk,sugar</span></h3>
+                                <h2>$9.11</h2>
+                            </div>
+                        </div>
+                        <div className="img-title">
+                            <img src={Img2} alt="img"/>
+                            <div className="img-title-1">
+                                <h3>Ice Cream <br/> <span>soda,cream,milk,sugar</span></h3>
+                                <h2>$9.11</h2>
+                            </div>
+                        </div>
+                        <div className="img-title">
+                            <img src={Img3} alt="img"/>
+                            <div className="img-title-1">
+                                <h3>Ice Cream <br/> <span>soda,cream,milk,sugar</span></h3>
+                                <h2>$9.11</h2>
+                            </div>
+                        </div>
+                        <div className="img-title">
+                            <img src={Img4} alt="img"/>
+                            <div className="img-title-1">
+                                <h3>Ice Cream <br/> <span>soda,cream,milk,sugar</span></h3>
+                                <h2>$9.11</h2>
+                            </div>
+                        </div>
+                        <div className="img-title">
+                            <img src={Img5} alt="img"/>
+                            <div className="img-title-1">
+                                <h3>Ice Cream <br/> <span>soda,cream,milk,sugar</span></h3>
+                                <h2>$9.11</h2>
+                            </div>
+                        </div>
+                        <div className="img-title">
+                            <img src={Img6} alt="img"/>
+                            <div className="img-title-1">
+                                <h3>Ice Cream <br/> <span>soda,cream,milk,sugar</span></h3>
+                                <h2>$9.11</h2>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

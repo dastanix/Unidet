@@ -1,0 +1,47 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.hero{
+    padding: 50px 0;
+}
+.burger-menu{
+    width: 364px;
+    height: 355px;
+    background: #1F2731;
+    text-align: center;
+    border: 0.4px solid rgba(229, 229, 229, 0.74)
+}
+.burger-0{
+    padding-top: 10px;
+    width: 363px;
+    height: 66px;
+    background: #EF272C;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 37px;
+    color: #FFFFFF;
+    margin-top: -1px;
+    margin-right: -3px;
+}
+.burger-1{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 37px;
+    color: rgba(255, 255, 255, 0.71);
+    padding-bottom: 12px;
+}
+.burger-0-li{
+    display: flex;
+}
+.lining{
+    width: 2px;
+    height: 50px;
+    background: white;
+    transform: rotate(-90deg);
+}
+hr{
+    margin-left: 60px;
+    width: 238px;
+    border: 0.4px solid rgba(229, 229, 229, 0.69);
+}
