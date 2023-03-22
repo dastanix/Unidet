@@ -2,14 +2,23 @@
     width: 90%;
     margin: 0 auto;
 }
+.icon{
+    font-size: 50px;
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+}
 .hero{
-    padding: 50px 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
 }
 .burger-menu{
     width: 364px;
     height: 355px;
     background: #1F2731;
-    text-align: center;
     border: 0.4px solid rgba(229, 229, 229, 0.74)
 }
 .burger-0{
@@ -30,6 +39,7 @@
     line-height: 37px;
     color: rgba(255, 255, 255, 0.71);
     padding-bottom: 12px;
+    /*margin-left : 50px;*/
 }
 .burger-0-li{
     display: flex;
@@ -45,3 +55,121 @@ hr{
     width: 238px;
     border: 0.4px solid rgba(229, 229, 229, 0.69);
 }
+
+
+
+.coffee{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #161e26;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+.coffee-photo-title{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.coffee-photo h3{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.coffee-photo h3 span{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.07em;
+    color: #BBBBBB;
+}
+.coffee-photo h2{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #EF272C;
+}
+.coffee-title{
+    margin-left: 30px;
+    width: 300px;
+}
+.coffee-extras{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 260px;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.coffee-extras-1 h2{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.coffee-extras-1 h3{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 17px;
+    color: #939393;
+    padding: 7px 0;
+}
+.coffee-extras-2 h4{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 17px;
+    color: #939393;
+    padding: 7px 0;
+}
+.coffee-drinks{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    width: 260px;
+    text-align: left;
+}
+
+.coffee-drinks-1 h2{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.coffee-drinks-1 h3{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 17px;
+    color: #939393;
+    padding: 7px 0;
+}
+.coffee-drinks-2 h4{
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 17px;
+    color: #939393;
+    padding: 7px 0;
+}
+
+
+.similar h1{
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 61px;
+    color: #FFFFFF;
+    text-align: left;
+    padding: 10px 0;
+}
+.similar-photo-1{
+    display: flex;
+}
+.similar-photo-2{
+    display: flex;
+}
+
+
+
+
+

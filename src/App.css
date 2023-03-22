@@ -1,14 +1,12 @@
-<<<<<<< HEAD
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-=======
 @import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
+}
 
 .App {
   text-align: center;
->>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
 }
 
 .container{
@@ -21,8 +19,7 @@ body{
 ;
 }
 
-<<<<<<< HEAD
-=======
+
 .container {
   width: 1140px;
   margin: 0 auto;
@@ -51,7 +48,7 @@ body {
   font-size: calc(10px + 2vmin);
   color: white;
 }
->>>>>>> f3e04e5ead6951720252eb63c76b5a2f29667a76
+
 
 
 

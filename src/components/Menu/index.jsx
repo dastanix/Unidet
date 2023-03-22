@@ -6,7 +6,7 @@ import Img3 from "../../img/dessert3.png"
 import Img4 from "../../img/dessert4.png"
 import Img5 from "../../img/dessert5.png"
 import Img6 from "../../img/dessert6.png"
-import {Route,Routes} from "react-router-dom";
+// import {Route,Routes} from "react-router-dom";
 
 const Menu = () => {
     return (
