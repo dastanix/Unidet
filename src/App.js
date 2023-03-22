@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './App.css';
 import About from "./components/about";
 import Menu from "./components/Menu";
@@ -24,3 +25,5 @@ function App() {
 
 export default App;
 
+=======
+>>>>>>> a44f22312515f0438b0d77337ffbd014f44250ed
